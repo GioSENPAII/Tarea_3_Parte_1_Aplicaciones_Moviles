@@ -103,7 +103,14 @@ Este proyecto consiste en una aplicación Android que consume un servicio REST b
 
 ## Capturas de Pantalla
 
-*(Incluir imágenes de la aplicación en funcionamiento aquí)*
+![Imagen 1](assets/1.png)
+![Imagen 2](assets/2.png)
+![Imagen 3](assets/3.png)
+![Imagen 4](assets/4.png)
+![Imagen 5](assets/5.png)
+![Imagen 6](assets/6.png)
+![Imagen 7](assets/7.png)
+![Imagen 8](assets/8.png)
 
 ---
 
